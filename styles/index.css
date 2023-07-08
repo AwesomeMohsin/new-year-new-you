@@ -31,11 +31,14 @@
     flex-shrink: 0;
     text-align: right;
     margin: 216px 230px 364px 845px;
+    color: #FFF;
+
 
 
 }
 
 .banner-title {
+    
     font-size: 65px;
     font-weight: 700;
     font-style: normal;
@@ -70,6 +73,7 @@
 
 .failure-section>img {
     margin-top: 170px;
+    margin-left: 200px;
 }
 
 .failure-content {
@@ -97,3 +101,4 @@
     line-height: 26px;
     margin-top: 24px;
 }
+
