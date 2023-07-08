@@ -33,12 +33,10 @@
     margin: 216px 230px 364px 845px;
     color: #FFF;
 
-
-
 }
 
 .banner-title {
-    
+
     font-size: 65px;
     font-weight: 700;
     font-style: normal;
@@ -102,3 +100,27 @@
     margin-top: 24px;
 }
 
+/* Plan style section */
+
+.plans-container {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: 275px;
+    margin-bottom: 135px ;
+    text-align: center;
+    gap: 100px;
+
+}
+
+.plan-main-title {
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 140px ;
+    margin-bottom: 50px ;
+    gap: 100px;
+}
